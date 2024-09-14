@@ -457,7 +457,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "tmc2208-breakout.kicad_pro",
+    "filename": "tmc2209-breakout.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -492,8 +492,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Dirty Gerber/",
-      "pos_files": "New Export/",
+      "plot": "",
+      "pos_files": "jlcpcb/assembly/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
